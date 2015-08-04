@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: textures0
+      Dependencies: {}
+    Info_1:
+      Name: textures1
+      Dependencies: {}
+    Info_2:
+      Name: textures2
+      Dependencies: {}
+    Info_3:
+      Name: textures3
+      Dependencies: {}
+    Info_4:
+      Name: textures4
+      Dependencies: {}
+    Info_5:
+      Name: textures5
+      Dependencies: {}
+    Info_6:
+      Name: textures6
+      Dependencies: {}
+    Info_7:
+      Name: textures8
+      Dependencies: {}
+    Info_8:
+      Name: textures7
+      Dependencies: {}
+    Info_9:
+      Name: textures9
+      Dependencies: {}

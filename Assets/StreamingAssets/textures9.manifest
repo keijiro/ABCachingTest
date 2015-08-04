@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 632397087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1f2c20ccb7e55488a202fe0e852050b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/099.png
+- Assets/Textures/090.png
+- Assets/Textures/098.png
+- Assets/Textures/097.png
+- Assets/Textures/091.png
+- Assets/Textures/096.png
+- Assets/Textures/093.png
+- Assets/Textures/095.png
+- Assets/Textures/092.png
+- Assets/Textures/094.png
+Dependencies: []
